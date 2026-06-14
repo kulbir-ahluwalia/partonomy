@@ -25,7 +25,7 @@ cloudpickle==3.0.0
 comm==0.2.2
 constantly==23.10.4
 contourpy==1.3.0
-cryptography==43.0.0
+cryptography==46.0.7
 cycler==0.12.1
 Cython==3.0.10
 cython
@@ -48,13 +48,13 @@ fastapi-cli==0.0.4
 ffmpy==0.3.2
 filelock==3.15.4
 flash-attn==2.5.9.post1
-fonttools==4.54.1
+fonttools==4.60.2
 frozenlist==1.4.1
 fsspec
 ftfy==6.2.0
 future==1.0.0
 fvcore==0.1.5.post20221221
-gdown==5.2.0
+gdown==5.2.2
 gitdb==4.0.11
 GitPython==3.1.43
 google==3.0.0
@@ -71,7 +71,7 @@ huggingface-hub==0.26.2
 humanize==4.10.0
 hydra-core==1.3.2
 hyperlink==21.0.0
-idna==3.7
+idna==3.15
 imageio==2.36.0
 importlib_metadata==8.2.0
 importlib_resources==6.4.0
@@ -91,7 +91,7 @@ jupyter_client==8.6.2
 jupyter_core==5.7.2
 kiwisolver==1.4.7
 lazy_loader==0.4
-lxml==5.2.2
+lxml==6.1.0
 magic-wormhole==0.14.0
 Markdown==3.6
 markdown-it-py==3.0.0
@@ -138,14 +138,14 @@ pip-date==1.0.5
 platformdirs==4.2.2
 portalocker==2.10.1
 prompt_toolkit==3.0.47
-protobuf==4.25.4
+protobuf==5.29.6
 psutil==6.0.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
 py-cpuinfo==9.0.0
 pyarrow==17.0.0
 pyarrow-hotfix==0.6
-pyasn1==0.6.0
+pyasn1==0.6.3
 pyasn1_modules==0.4.0
 # pycocotools @ git+https://github.com/XD7479/cocoapi.git@772b85a787ef554a732d4cb9abe317d61602af83#subdirectory=PythonAPI
 pycocotools>=2.0.7
@@ -156,7 +156,7 @@ pydot==3.0.1
 pydub==0.25.1
 Pygments==2.18.0
 PyNaCl==1.5.0
-pyOpenSSL==24.2.1
+pyOpenSSL==26.0.0
 pyparsing==3.2.0
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
@@ -176,8 +176,8 @@ scikit-image==0.24.0
 scipy==1.14.1
 segment_anything @ git+https://github.com/facebookresearch/segment-anything.git@6fdee8f2727f4506cfbbe553e23b895e27956588
 semantic-version==2.10.0
-sentencepiece==0.2.0
-sentry-sdk==2.7.1
+sentencepiece==0.2.1
+sentry-sdk==2.62.0
 service-identity==24.1.0
 setproctitle==1.3.3
 Shapely==1.7.1
@@ -205,7 +205,7 @@ toolz==0.12.1
 # torch==2.3.1
 # torchaudio==2.3.1
 # torchvision==0.18.1
-tornado==6.4.1
+tornado==6.5.6
 tqdm==4.66.6
 traitlets==5.14.3
 transformers==4.46.1
@@ -226,7 +226,7 @@ wcwidth==0.2.13
 webcolors==24.6.0
 websocket-client==1.8.0
 websockets==11.0.3
-Werkzeug==3.0.3
+Werkzeug==3.1.6
 wormhole==0.1.0
 xmltodict==0.13.0
 xxhash==3.4.1
