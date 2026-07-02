@@ -181,7 +181,7 @@ setup(
         "dataclasses; python_version<'3.7'",
         "omegaconf>=2.1",
         "hydra-core>=1.1",
-        "black==21.4b2",
+        "black==26.3.1",
         "scipy>1.5.1",
         'fairscale',
         'diffusers',
