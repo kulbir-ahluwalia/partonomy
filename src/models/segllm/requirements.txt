@@ -48,7 +48,7 @@ fastapi-cli==0.0.4
 ffmpy==0.3.2
 filelock==3.20.3
 flash-attn==2.5.9.post1
-fonttools==4.54.1
+fonttools==4.60.2
 frozenlist==1.4.1
 fsspec
 ftfy==6.2.0
